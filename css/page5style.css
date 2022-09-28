@@ -1,0 +1,95 @@
+body{
+background-color: white;
+font-family: monospace;
+text-align: center;
+}
+
+.profile-picture{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 10%;
+  height: auto;
+  max-width: 200px;
+
+  border-radius: 50%
+}
+
+.links{
+  text-align: center;
+  margin-top: 20px;
+  border: 1px
+  border-width: 2px;
+  padding: 10px;
+
+  color: black;
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 40px;
+
+  font-size: 18px;
+}
+
+.btn button{
+  background: white;
+
+  padding: 5px; 10px;
+  border-radius: 30px;
+  font-size: 10px;
+  font-family: monospace;
+}
+
+.links{
+  text-align: center;
+  margin-top: 20px;
+  border: 1px
+  border-width: 2px;
+  padding: 10px;
+
+  color: black;
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 40px;
+
+
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+
+  color: black;
+  transition: color .25s;
+}
+
+  a:hover{
+    color: #FFDC7C;
+    background color: white;
+
+  }
+
+
+
+
+a{
+  text-decoration: none;
+
+  color: black;
+  transition: color .25s;
+}
+
+  a:hover{
+    color: #FFDC7C;
+    background color: white;
+
+
+  }
